@@ -1,0 +1,49 @@
+h1{
+    color: black
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.bodyimg{
+    justify-content:space-evenly;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color:white;
+
+    width: 350px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p,h1{
+    text-align: center;
+}
